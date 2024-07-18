@@ -1,0 +1,1 @@
+I created a tool using python to calculate the optimal configuration of pallets while accounting for constraints such as load-bearing considerations, cylindrical item handling, and weight distribution. The code will be used to automate planning, optimize pallet packing, and reduce late deliveries.
